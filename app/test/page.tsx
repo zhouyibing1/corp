@@ -5,7 +5,7 @@ export default function page() {
   notFound()
   return (
     <div>
-      
+      test
     </div>
   )
 }
